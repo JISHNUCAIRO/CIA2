@@ -1,0 +1,192 @@
+li
+{
+    list-style: none;
+}
+#a:hover
+{
+    background-color: Lime;
+    color:black;
+    font-size: large;
+    
+}
+#b:hover
+{
+    background-color: lavender;
+    color:black;
+    font-size: large;
+}
+#c:hover
+{
+    color:black;
+    background-color:crimson;
+    font-size: large;
+}
+
+#d:hover
+{
+    background-color: darkblue;
+    color:black;
+    font-size: large;
+}
+#e:hover
+{
+    background-color:teal;
+    color:black;
+    font-size: large;
+}
+#f:hover
+{
+    background-color: rebeccapurple;
+    color:black;
+    font-size: large;
+}
+#g:hover
+{
+    background-color: ghostwhite;
+    color:black;
+    font-size: large;
+}
+#h:hover
+{
+    background-color:aquamarine;
+    color:black;
+    font-size: large;
+    
+}
+#i:hover
+{
+    background-color: aliceblue;
+    color:black;
+    font-size: large;
+}
+.dropmain
+{
+    text-align: center;
+}
+#a
+{
+    border-radius: 3px;
+   border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+   
+}
+#b
+{
+    border-radius: 3px;
+    border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+   
+}
+#c
+{
+    border-radius: 3px;
+    border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+   
+}
+#d
+{
+    border-radius: 3px;
+   border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+}
+#e
+{
+    border-radius: 3px;
+    border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+}
+#f
+{
+    border-radius: 3px;
+    border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+}
+#g
+{
+    border-radius: 3px;
+    border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+}
+#h
+{
+    border-radius: 3px;
+   border: 2px solid black;
+   text-align: center;
+   margin-top: 6px;
+   cursor: pointer;
+   margin-left: 790px;
+   margin-right: 790px;
+}
+#i
+{
+    border-radius: 3px;
+   border: 2px solid black;
+   text-align: center;
+   margin-left: 790px;
+   margin-right: 790px;
+   margin-top: 6px;
+   cursor: pointer;
+}
+.dropmain:hover li
+{
+   display:block;
+}
+.bu:hover 
+{
+    border: 2px solid black;
+    color:antiquewhite;
+    background-color:darkorange;
+    cursor: pointer;
+    transition: 1s;
+}
+li
+{
+    display: none;
+    
+}
+button
+{
+    padding: 6px;
+    border: 2px solid black;
+    font-size: larger;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.dropmain:hover .dropcon
+{
+    background-color: gray;
+}
+.dropcon
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
